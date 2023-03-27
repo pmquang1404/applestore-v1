@@ -1,0 +1,1 @@
+export {bannerHomeMobile, bannerIpadsMobile, bannerIphonesMobile, bannerLoudSpeakersMobile, bannerMacsMobile, bannerWatchsMobile} from './bannerMobile'

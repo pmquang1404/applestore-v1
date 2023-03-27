@@ -1,0 +1,44 @@
+// Single Loading
+
+.img-loading {
+    padding-right: 16px;
+    width: 50%;
+}
+.information-loading {
+    padding-left: 16px;
+    width: 50%;
+}
+.bottom {
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto; 
+}
+
+//Page Loading 
+.wrap {
+    padding-top: 60px;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.heading {
+    text-align: center;
+    padding: 24px 0;
+}
+.background {
+    width: 100%;
+}
+@media (max-width: '739px') {
+    .img-loading {
+        width: 100%;
+        padding: 0;
+    }
+    .information-loading {
+        width: 100%;
+        padding: 0;
+    }
+    .bottom {
+        display: none;
+    }
+}
